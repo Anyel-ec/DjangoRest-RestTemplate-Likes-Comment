@@ -78,9 +78,6 @@ The project consists of the following components:
 4. **API Endpoints**:
    - The API endpoints are available under `/api/v1/comments/`, where you can perform CRUD operations on comments.
 
-5. **Documentation**:
-   - Access the API documentation at `/docs/` to explore endpoints and test API functionality interactively.
-
 #### Configuration
 
 - **Dependencies**:
